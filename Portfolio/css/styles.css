@@ -1,0 +1,101 @@
+body {
+  font-family: 'Montserrat';
+}
+
+.icon{
+  color: #393b44;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #000000;
+}
+
+.row h3 {
+  font-family: Montserrat;
+  font-size: 1.5rem;
+}
+#testimonials h2{
+  font-family: "Montserrat";
+  font-size: 3rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+#title {
+  background-color: #393b44;
+  color: #f1f3f8;
+}
+
+.meet {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.avatarimg {
+  border-radius: 100%;
+  margin-left: 120px;
+}
+
+/* Nav Bar */
+
+.navbar.navbar-expand-lg.navbar-dark {
+padding: 0 0 5rem;
+}
+
+.navbar-brand {
+font-family: 'Lobster', cursive;
+font-size: 2rem;
+}
+
+.nav-item {
+   padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2;
+  font-family: Montserrat;
+}
+/* Social Buttons */
+
+.social_buttons {
+  margin: 5% 3% 5% 0%;
+}
+#features{
+  padding: 7% 15%;
+}
+
+.arttype{
+  text-align: center;
+  padding: 5%;
+}
+
+/* artype section */
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#testimonials {
+
+  text-align: center;
+  background-color: #393b44;
+  color: #ffff;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+  background-color: #393b44;
+  text-align: center;
+  padding-bottom: 3%
+}
+.press-logo{
+  width: 10%;
+  margin: 20px 20px 25px;
+}
